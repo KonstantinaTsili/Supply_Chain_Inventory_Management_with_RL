@@ -2,7 +2,7 @@
 
 Reinforcemenet Learning Project 2023
 ## Introduction
-This repository was created in the framework of the course reinforcement learning of the MSc in Data Science and Business Analytics offeredby ESSEC & CentraleSupelec.
+This repository was created in the framework of the course reinforcement learning of the MSc in Data Science and Business Analytics offered by ESSEC & CentraleSupelec.
 The assignment deals with a reinforcement learning approach to supply chain inventory management (SCIM).
 
 ## Files
