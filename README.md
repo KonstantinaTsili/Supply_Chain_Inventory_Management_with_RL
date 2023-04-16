@@ -16,6 +16,6 @@ The assignment deals with a reinforcement learning approach to supply chain inve
     
     - DDPG_agent.ipnyb
 
-    Each of the agents utilises the SupplyChainEnv.py
+Each of the agents utilises the SupplyChainEnv.py
 
 3 ) Final_Report.pdf contains the final report of the projects, explaining thooughly the environment, the agents and the results
